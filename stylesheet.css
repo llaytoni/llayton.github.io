@@ -1,14 +1,20 @@
+/*BACKGROUND COLOR & FONT*/
+
 body{
     font-family: 'Arial', sans-serif;
     background-color: #f2f2f2     
 }
     
+/*WRAPPER*/
+
 #wrapper{
     max-width: 960px;
     margin: 0 auto;
     background-color: : #668cff;
     padding: 32px;    
 }
+
+/*HEADER*/
 
 header{
     background-color: #668cff;
@@ -26,6 +32,8 @@ header h2{
     text-align: center;
     color: #fff;
 }
+
+/*MAIN MENU*/
 
 .main_menu{
     padding: 5px 0 5px 0;
@@ -54,6 +62,8 @@ ul.main_menu{
 .main_menu a:hover {
     color: #668cff
 }
+
+/*BODY*/
 
 #body{
     font-size: 20px;
